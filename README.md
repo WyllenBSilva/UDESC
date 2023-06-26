@@ -3,8 +3,10 @@ Arquivos diversos de trabalhos que foram feitos durante minha graduação em Ci�
 
 # Disciplinas
 ## Semestre 2023/1
-  ODAW 
-  BAN2
+  <ol>
+    <li>ODAW</li>
+    <li>BAN2</li>
+  </ol>
   
 ## Autor
   Meu nome é Wyllen, atualmente sou um estudante de ciências da computação da UDESC de Joinville, com previsão para terminar a graduação no final de 2025.
