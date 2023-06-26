@@ -2,8 +2,9 @@
 Arquivos diversos de trabalhos que foram feitos durante minha graduação em Ciências da Computação na Udesc de Joinville - Centro de Ciências Tecnológicas - CCT.
 
 # Disciplinas
-## Semestre 20223/1
+## Semestre 2023/1
   ODAW
+  BAN2
   
 ## Autor
   Meu nome é Wyllen, atualmente sou um estudante de ciências da computação da UDESC de Joinville, com previsão para terminar a graduação no final de 2025.
