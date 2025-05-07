@@ -1,0 +1,17 @@
+Use split terminal in vscode
+
+Path:
+cd "C:\Users\u04051\Desktop\Faculdade\OTES - Apps\Trab1\MultiThread_Socket"
+--------
+
+Client
+
+& 'C:\Program Files\Java\jdk-21\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\u04051\Desktop\Faculdade\OTES - Apps\Trab1\MultiThread_Socket\bin' 'Client'
+
+Servidor
+
+& 'C:\Program Files\Java\jdk-21\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\u04051\Desktop\Faculdade\OTES - Apps\Trab1\MultiThread_Socket\bin' 'Servidor'
+
+Conexao
+
+ & 'C:\Program Files\Java\jdk-21\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\u04051\Desktop\Faculdade\OTES - Apps\Trab1\MultiThread_Socket\bin' 'Conexao'
