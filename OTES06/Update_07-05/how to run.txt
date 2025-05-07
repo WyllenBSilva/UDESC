@@ -1,3 +1,5 @@
+Maybe the class "Conexao" is not necessary.
+
 Use split terminal in vscode
 
 Path:
