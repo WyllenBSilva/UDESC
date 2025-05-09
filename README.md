@@ -9,7 +9,7 @@ Arquivos diversos de trabalhos que foram feitos durante minha graduação em Ci�
   </ul>
   
 ## Autor
-  Meu nome é Wyllen, atualmente sou um estudante de ciências da computação da UDESC de Joinville, com previsão para terminar a graduação no final de 2025.
+  Meu nome é Wyllen, atualmente sou um estudante de ciências da computação da UDESC de Joinville.
   
   📫 - Entre em contato!
 <div>
